@@ -13,8 +13,8 @@ pip install rasterio
 ## Data Organization
 ```
 **Material Data**
-- f
-  - d
+_ f
+  _ d
 **Evaluation Data**
 ```
 ## Training
