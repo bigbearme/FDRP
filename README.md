@@ -3,11 +3,14 @@
 Note: Still under review, this code repository is not yet fully complete.
 ## Setup
 ```
-https://github.com/bigbearme/FDRP.git
+git clone https://github.com/bigbearme/FDRP.git
 cd FDRP
-pip install torch==2.0.0+cu117 torchvision==0.15.1+cu117 torchaudio==2.0.1+cu117 -f https://download.pytorch.org/whl/torch_stable.html
-pip install -r requirements.txt
+conda create -n FDRP python=3.8
+activate FDRP
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
+pip install rasterio
 ```
+## Data Organization
 ## Training
 ## Testing
 ## Results
