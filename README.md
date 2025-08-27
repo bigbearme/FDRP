@@ -14,9 +14,21 @@ pip install rasterio
 ```
 **Material Data**
 Data/
-├─ ─ f
-  _ d
+├─ ─ NDVI
+     ├─ ─ NDVI_06/01
+     ├─ ─ NDVI_06/02
+     ├─ ─ NDVI_06/03
+     ├─ ─ ...
+├─ ─ Elevation
+├─ ─ GDP
+├─ ─ ...
+├─ ─ Daily rainfall
 **Evaluation Data**
+Risk/
+├─ ─ risk_06/01
+├─ ─ risk_06/02
+├─ ─ risk_06/03
+├─ ─ ...
 ```
 ## Training
 ## Testing
