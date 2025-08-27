@@ -10,9 +10,9 @@ conda activate FDRP
 pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
 pip install rasterio
 ```
-## Preparation
+## Data Preparation
 ```
-**Material Data**
+_Material Data_
 Data/
 ├─ ─ NDVI
      ├─ ─ NDVI_06/01
