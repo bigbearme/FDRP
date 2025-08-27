@@ -11,8 +11,8 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 pip install rasterio
 ```
 ## Data Preparation
+**Material Data**
 ```
-_Material Data_
 Data/
 ├─ ─ NDVI
      ├─ ─ NDVI_06/01
@@ -23,7 +23,9 @@ Data/
 ├─ ─ GDP
 ├─ ─ ...
 ├─ ─ Daily rainfall
+```
 **Evaluation Data**
+```
 Risk/
 ├─ ─ risk_06/01
 ├─ ─ risk_06/02
