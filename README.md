@@ -33,9 +33,14 @@ Risk/
 ├─ ─ ...
 ```
 ## Training
+```
+python train.py
+```
 ## Testing
-## Results
-## Evaluation
+```
+python test.py
+```
+## Results and Evaluation
 # Contact:
 ```
 Don't hesitate to contact me if you meet any problems when using this code.
