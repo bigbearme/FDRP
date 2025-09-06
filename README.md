@@ -36,9 +36,9 @@ Risk/
 ```
 ## 3.Quick Start
 ## Get Positional Encodings
-'''
+```
 python get_postcode.py
-'''
+```
 ## Training
 ```
 python train.py
