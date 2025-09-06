@@ -11,8 +11,8 @@ pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https
 pip install rasterio
 ```
 ## 2.Data Preparation
-**Material Data**
 The provided dataset structure is as follows. If using your own dataset, please organize it according to the structure below.
+**Material Data**
 ```
 Data/
 ├─ ─ NDVI
