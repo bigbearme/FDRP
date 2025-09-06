@@ -1,7 +1,7 @@
 # End-to-End Flood Disaster Risk Prediction for the Poyang Lake Basin, China, Based on Informer
 ## Continuously updating!
 Note: Still under review, this code repository is not yet fully complete.
-## Setup
+## 1.Setup
 ```
 git clone https://github.com/bigbearme/FDRP.git
 cd FDRP
@@ -10,8 +10,9 @@ conda activate FDRP
 pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
 pip install rasterio
 ```
-## Data Preparation
+## 2.Data Preparation
 **Material Data**
+The provided dataset structure is as follows. If using your own dataset, please organize it according to the structure below.
 ```
 Data/
 ├─ ─ NDVI
@@ -32,6 +33,7 @@ Risk/
 ├─ ─ risk_06/03
 ├─ ─ ...
 ```
+## 3.Quick Start
 ## Training
 ```
 python train.py
