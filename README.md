@@ -1,6 +1,11 @@
 # End-to-End Flood Disaster Risk Prediction for the Poyang Lake Basin, China, Based on Informer
 ## Continuously updating!
 Note: Still under review, this code repository is not yet fully complete.
+## Task List
+- [ ] Release test data.
+- [ ] Release a simplified version of the code for testing purposes.
+- [ ] Release the code for evaluating the results.
+- [ ] Release the complete source code.
 ## 1.Setup
 ```
 git clone https://github.com/bigbearme/FDRP.git
