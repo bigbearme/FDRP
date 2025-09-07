@@ -2,10 +2,10 @@
 ## Continuously updating!
 Note: Still under review, this code repository is not yet fully complete.
 ## Task List
-- [x] Release test data.
-- [x] Release a simplified version of the code for testing purposes.
-- [ ] :triangular_flag_on_post: Release the code for evaluating the results. In progress...
-- [ ] :triangular_flag_on_post: Release the complete source code. 
+- [x] :triangular_flag_on_post: Release test data.
+- [x] :triangular_flag_on_post: Release a simplified version of the code for testing purposes.
+- [ ] :rocket: Release the code for evaluating the results. In progress...
+- [ ] Release the complete source code. 
 - [ ] Release of the program for integrating end-to-end flood forecasting.
 ## 1.Setup
 ```
@@ -57,5 +57,6 @@ python test.py
 # Contact:
 ```
 Don't hesitate to contact me if you meet any problems when using this code.
+:beer: :beer: :beer:
 Email: bigxiong23@gmail.com
 ```
