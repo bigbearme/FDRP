@@ -55,8 +55,8 @@ python test.py
 ```
 ## 4.Results and Evaluation
 # Contact:
+:beer: :beer: :beer:
 ```
 Don't hesitate to contact me if you meet any problems when using this code.
-:beer: :beer: :beer:
 Email: bigxiong23@gmail.com
 ```
