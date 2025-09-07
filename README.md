@@ -2,10 +2,11 @@
 ## Continuously updating!
 Note: Still under review, this code repository is not yet fully complete.
 ## Task List
-- [ ] Release test data.
-- [ ] Release a simplified version of the code for testing purposes.
-- [ ] Release the code for evaluating the results.
-- [ ] Release the complete source code.
+- [x] Release test data.
+- [x] Release a simplified version of the code for testing purposes.
+- [ ] Release the code for evaluating the results. In progress...
+- [ ] Release the complete source code. 
+- [ ] Release of the program for integrating end-to-end flood forecasting.
 ## 1.Setup
 ```
 git clone https://github.com/bigbearme/FDRP.git
